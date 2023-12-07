@@ -61,6 +61,11 @@ Germany generated the highest revenue so, there is need for aggressive marketing
 
 THANK YOU 😄
 
+Chat me up on Linkedln: http://linkedin.com/in/salau-gideon-ond-aat-bsc-and-aca-in-view-330a4a1a0
+
+Twitter: @LateefGideon
+
+Whatsapp: 08100657265
 
 
 
