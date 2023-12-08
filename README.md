@@ -40,7 +40,7 @@ The report comprises of 3 pages
 - Revenue Summary
 - Map
 
-You can interact with the report here: [https://app.powerbi.com/links/dvoGoMnuHC?ctid=5017df77-c053-4434-b3e8-e80403c4a2c2&pbi_source=linkShare]
+You can interact with the report here: [[https://app.powerbi.com/links/dvoGoMnuHC?ctid=5017df77-c053-4434-b3e8-e80403c4a2c2&pbi_source=linkShare]](https://app.powerbi.com/view?r=eyJrIjoiOTgzNDFiNjUtNTcyYS00MGY3LWI4OTUtOWFmYWNmNmIzZTQzIiwidCI6IjUwMTdkZjc3LWMwNTMtNDQzNC1iM2U4LWU4MDQwM2M0YTJjMiJ9)
 
 #### Revenue summary :
 ![](SIDE_HUSTLE_page-0002.jpg)
